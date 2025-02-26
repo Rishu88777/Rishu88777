@@ -1,6 +1,6 @@
-**_Hi there, I'm Rishu Shrivastava 👋_**
+#**_Hi there, I'm Rishu Shrivastava 👋_**
 
-**🚀 About Me**
+##**🚀 About Me**
 
 🎓 B.Tech (CSE) | IILM College of Engineering and Technology (2021-2025)💻 Aspiring Software Developer | Fresher🛠 Tech Stack: Java | C | Spring Boot | SQL | React.js | Node.js📌 
 
@@ -9,7 +9,7 @@
 
 🏅 Certifications: AWS, React (Udemy), Java + DSA (Apna College)
 
-🔥 Projects
+##**🔥 Projects**
 
 **🚗 Car Management System (Full-Stack Java, Spring Boot)**
 
@@ -30,7 +30,7 @@ A full-stack task management application with user authentication (JWT) and task
 Backend: Node.js + Express.js | Database: MySQL
 
 
-**📫 Connect With Me**
+##**📫 Connect With Me**
 
 💼 LinkedIn: https://www.linkedin.com/in/rishu88777/
 
