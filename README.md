@@ -2,8 +2,7 @@ Hi there, I'm Rishu Shrivastava 👋
 
 🚀 About Me
 
-🎓 B.Tech (CSE) | IILM College of Engineering and Technology (2021-2025)💻 Aspiring Software Developer | Fresher🛠 Tech Stack: Java | C | Spring Boot | SQL | React.js | Node.js📌 Currently interviewing for a Software Developer role at W3villa Technologies
-
+🎓 B.Tech (CSE) | IILM College of Engineering and Technology (2021-2025)💻 Aspiring Software Developer | Fresher🛠 Tech Stack: Java | C | Spring Boot | SQL | React.js | Node.js📌 
 🏆 Experience & Certifications
 
 💡 SQL Intern @ Celebal Technologies (May 2024 - July 2024)
