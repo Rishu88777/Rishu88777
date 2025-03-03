@@ -2,7 +2,7 @@
 
 ## **🚀 About Me**
 
-🎓 B.Tech (CSE) | IILM College of Engineering and Technology (2021-2025)💻 Aspiring Software Developer | Fresher🛠 Tech Stack: Java | C | Spring Boot | SQL | React.js | Node.js📌 
+🎓 B.Tech (CSE) | IILM College of Engineering and Technology (2021-2025)💻 Aspiring Software Developer | Fresher🛠 Tech Stack: Java | C | Spring Boot | SQL | 📌 
 
 
 💡 SQL Intern @ Celebal Technologies (May 2024 - July 2024)
